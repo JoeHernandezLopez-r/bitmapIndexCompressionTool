@@ -1,4 +1,4 @@
-Project Name: compression.py
+Project Name: Bitmap Index Compression Tool
 
 Description: Creates bitmaps of the list (animal, age, adopted). Provides functionality for creating and compressing bitmap indices. The main functions available are create_index and compress_index.
 
